@@ -1,4 +1,3 @@
-Git is a version control system.
-Git is free sofeware.
 Git is a distributed version control system.
 Git is free sofeware distributed under the GPL.
+Git has mutable index called stage.
